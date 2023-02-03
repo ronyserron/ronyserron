@@ -27,7 +27,9 @@
 
 
 ### Glad to see you here!  
-As a full-stack developer with 12 years of freelancing experience, I bring a unique combination of front-end and back-end expertise to my full-time career. I excel at building robust, scalable backends that provide seamless support for client-facing apps and websites. 
+As a full-stack developer with 12 years of freelancing experience, I bring a unique combination of front-end and back-end expertise to my full-time career.
+
+I excel at building robust, scalable backends that provide seamless support for client-facing apps and websites.
 
 My passion is for creating elegant, efficient systems that deliver powerful results.  
 
