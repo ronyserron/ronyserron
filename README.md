@@ -1,6 +1,6 @@
 # 👋 Hola, soy Rony Serrón
 
-### Full-Stack Developer | 12 años de experiencia | Arquitecto de soluciones escalables
+### Full-Stack Developer | 15 años de experiencia | Arquitecto de soluciones escalables
 
 Desarrollador full-stack especializado en crear sistemas backend robustos y experiencias frontend elegantes. Con más de una década de experiencia freelance, ahora enfocado en construir soluciones empresariales que realmente importan.
 
@@ -10,16 +10,24 @@ Desarrollador full-stack especializado en crear sistemas backend robustos y expe
 
 ```javascript
 const rony = {
+  role: "Full-Stack Developer & DevOps Engineer",
   code: ["JavaScript", "TypeScript", "PHP", "Python"],
   stacks: {
     frontend: ["Vue.js", "Nuxt.js", "React"],
     backend: ["Node.js", "Laravel", "CodeIgniter", "Slim Framework"],
     databases: ["MySQL", "MariaDB", "MongoDB"],
-    tools: ["AWS", "Nginx", "Git", "Webpack"]
+    infrastructure: ["AWS", "DigitalOcean", "VPS", "cPanel", "WHM", "Nginx"],
+    cms: ["WordPress", "WooCommerce", "ACF", "Elementor"]
   },
-  architecture: ["SPA", "REST APIs", "Microservices", "Serverless"],
-  currentFocus: "Construyendo mi sitio personal",
-  learning: "Python avanzado y ML",
+  architecture: ["Hexagonal", "Clean Code", "SPA", "REST APIs", "Microservices"],
+  specialties: {
+    performance: ["WPO", "SEO", "Core Web Vitals"],
+    devops: ["Server Management", "CI/CD", "Cloud Infrastructure"],
+    ecommerce: ["WooCommerce", "Payment Gateways", "Inventory Systems"]
+  },
+  currentFocus: "Building my personal website",
+  learning: "Python",
+  availability: "Open to new projects",
   funFact: "Tabs > Spaces"
 };
 ```
@@ -28,8 +36,10 @@ const rony = {
 
 - 🏆 **15 años** de desarrollo freelance
 - 🔧 Especialista en **WAMP** y **MERN** stack
-- 🎯 Enfocado en arquitecturas escalables y mantenibles
+- 🎯 Enfocado en **arquitectura hexagonal** y sistemas escalables
 - 🌐 De proyectos pequeños a soluciones empresariales
+- ⚡ Experto en **WPO** y **SEO**
+- 🖥️ Gestión de infraestructura: **VPS**, **cPanel**, **WHM**
 
 ## 🛠️ Stack Tecnológico
 
@@ -57,10 +67,20 @@ const rony = {
 
 ### DevOps & Tools
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=for-the-badge&logo=cpanel&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### WordPress Ecosystem
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
+
+### Optimización & SEO
+![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=google-analytics&logoColor=white)
+![SEO](https://img.shields.io/badge/SEO-47A248?style=for-the-badge&logo=google&logoColor=white)
 
 ### Diseño
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -99,6 +119,11 @@ const rony = {
   
   ![Profile Views](https://komarev.com/ghpvc/?username=ronyserron&color=blueviolet&style=for-the-badge)
   
-  **💬 ¿Tienes preguntas sobre WAMP o MERN stack? ¡No dudes en contactarme!**
+  ### 💼 Abierto a nuevas oportunidades
+  
+  **¿Buscas un desarrollador full-stack experimentado para tu proyecto?**  
+  Estoy disponible para colaboraciones, proyectos freelance y oportunidades laborales.
+  
+  📧 **Contáctame** para discutir cómo puedo ayudarte a construir tu próxima solución.
   
 </div>
